@@ -22,14 +22,20 @@ I hate it).
 
 sl.write("Below you can find some of the apps I have built in Python:")
 
-col3, col4, = sl.columns(2)
+col3, space_col, col4 = sl.columns([1, 0.3, 1])
 
 data = pd.read_csv("data.csv", sep=";")
 
 with col3:
 	for index, row in data[:11].iterrows():
 		sl.header(row["title"])
+		sl.write(row["description"])
+		sl.image("images/" + row["image"])
+		sl.write(f"[Source Code]({row['url']})")
 
 with col4:
 	for index, row in data[11:].iterrows():
 		sl.header(row["title"])
+		sl.write(row["description"])
+		sl.image("images/" + row["image"])
+		sl.write(f"[Source Code]({row['url']})")
