@@ -2,8 +2,8 @@ title;description;url;image
 Task Manager;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/GamerXZEN/daily-task-manager;1.png
 Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://github.com/GamerXZEN/portifolioweb;2.png
 PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/GamerXZEN/pdfgeneration;3.png
-PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/GamerXZEN/exceltopdf;4.
-Morning News Email;A program that gets data from a news API and sends emails to a certain batch of email addresses.;https://github.com/GamerXZEN/newstoemail
+PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/GamerXZEN/exceltopdf;4.png
+Morning News Email;A program that gets data from a news API and sends emails to a certain batch of email addresses.;https://github.com/GamerXZEN/newstoemail;5.png
 Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://pythonhow.com;6.png
 Download Cleaner;A script that monitors the Downloads folder and deletes old files keeping the folder clean.;https://pythonhow.com;7.png
 Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://pythonhow.com;8.png
