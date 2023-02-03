@@ -4,7 +4,7 @@ Portfolio Website;A website built entirely in Python to showcase coding projects
 PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/GamerXZEN/pdfgeneration;3.png
 PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/GamerXZEN/exceltopdf;4.png
 Morning News Email;A program that gets data from a news API and sends emails to a certain batch of email addresses.;https://github.com/GamerXZEN/newstoemail;5.png
-Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://pythonhow.com;6.png
+Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://github.com/GamerXZEN/weatherapi;6.png
 Download Cleaner;A script that monitors the Downloads folder and deletes old files keeping the folder clean.;https://pythonhow.com;7.png
 Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://pythonhow.com;8.png
 Helper Chatbot;A chatbot that knows about a specific topic and answers questions regarding that topic.;https://pythonhow.com;9.png
